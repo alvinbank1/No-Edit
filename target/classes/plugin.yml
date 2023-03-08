@@ -1,0 +1,4 @@
+name: No-Edit
+version: '0.1-BETA'
+main: org.noedit.noedit.No_Edit
+api-version: 1.19
